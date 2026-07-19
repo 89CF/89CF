@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1120,50:172554,100:0EA5E9&text=Ahmet%20Enes&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20•%20Full-Stack%20Developer%20•%20Homelab%20Engineer&descAlignY=60&descSize=18"/>
 
 <a href="https://github.com/89CF">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=Building+things+that+actually+ship+🚀;Computer+Engineering+Student;Full-Stack+Developer;WordPress+%26+WooCommerce+Developer;Homelab+Engineer;TypeScript+•+Vue+•+Node.js+•+PHP+•+Python"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=Building+things+that+actually+ship+;Computer+Engineering+Student;Full-Stack+Developer;WordPress+%26+WooCommerce+Developer;Homelab+Engineer;TypeScript+•+Vue+•+Node.js+•+PHP+•+Python"/>
 </a>
 
 <br><br>
