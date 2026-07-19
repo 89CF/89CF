@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1120,50:172554,100:0EA5E9&text=Ahmet%20Enes&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Homelab%20Engineer&descAlignY=60&descSize=20"/>
@@ -128,9 +127,6 @@ const ahmet = {
 </a>
 
 </div>
-
----
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0B1120,50:172554,100:0EA5E9"/>
