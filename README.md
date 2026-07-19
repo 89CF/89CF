@@ -1,124 +1,118 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1120,50:172554,100:0EA5E9&text=Ahmet%20Enes&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Homelab%20Engineer&descAlignY=60&descSize=20"/>
+# 👋 Hi, I'm Ahmet Enes
+
+### Full-Stack Developer • Homelab Engineer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+things+that+actually+ship+🚀;Full-Stack+Developer;WordPress+%2B+WooCommerce+Developer;Homelab+Automation+with+Proxmox;TypeScript+•+Vue+•+Node.js+•+PHP+•+Python"/>
+
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,vue,nodejs,php,python,docker,linux,git,mysql,tailwind" />
+</p>
+
+</div>
+
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1120,50:172554,100:0EA5E9&text=Ahmet%20Enes&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20•%20Full-Stack%20Developer%20•%20Homelab%20Engineer&descAlignY=60&descSize=18"/>
 
 <a href="https://github.com/89CF">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+things+that+actually+ship+🚀;Full-Stack+Developer;WordPress+%2B+WooCommerce+Developer;Homelab+Automation+with+Proxmox;TypeScript+•+Vue+•+Node.js+•+PHP+•+Python"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=Building+things+that+actually+ship+🚀;Computer+Engineering+Student;Full-Stack+Developer;WordPress+%26+WooCommerce+Developer;Homelab+Engineer;TypeScript+•+Vue+•+Node.js+•+PHP+•+Python"/>
 </a>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=89CF&style=for-the-badge&color=0ea5e9"/>
-<img src="https://img.shields.io/github/followers/89CF?style=for-the-badge&color=2563eb"/>
+<img src="https://skillicons.dev/icons?i=ts,vue,nodejs,php,python,docker,linux,git,mysql,tailwind,vscode&perline=11" />
 
 </div>
 
 ---
 
-# 👋 About Me
+## 🧑‍💻 About Me
 
-```ts
+```typescript
 const ahmet = {
-  role: "Full-Stack Developer",
-  location: "Türkiye 🇹🇷",
-
-  focus: [
-    "Web Applications",
-    "WordPress Plugins",
-    "WooCommerce",
-    "Homelab Automation"
-  ],
-
-  currentlyBuilding: "Self-hosted Proxmox VPS Control Panel",
-
-  learning: [
-    "Event-driven Architecture",
-    "Infrastructure as Code",
-    "Kubernetes"
-  ],
-
-  motto: "Ship it. Iterate. Repeat."
-}
+  education: "Computer Engineering Student",
+  role:      "Aspiring Full-Stack Developer",
+  location:  "Poland 🇵🇱",
+  focus:     ["TypeScript", "Next.js", "Node.js", "WordPress Plugins", "Homelab Engineering"],
+  currently: "Building a self-hosted Proxmox VPS control panel",
+  learning:  ["System Design", "DevOps"],
+  motto:     "Build. Learn. Ship. Repeat.",
+};
 ```
 
 ---
 
-# ⚡ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,vue,nuxt,nodejs,express,php,python,tailwind,docker,linux,git,github,githubactions,mysql,vscode&perline=8"/>
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<br><br>
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=ubuntu,bash,cloudflare,nginx"/>
+### Backend & Runtime
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+
+### DevOps & Infra
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 </div>
 
 ---
 
-# 📈 GitHub Statistics
+## 📊 GitHub Stats
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=89CF&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark_dimmed"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=89CF&theme=github-dark-blue&hide_border=true"/>
-
-<br><br>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=89CF&layout=compact&hide_border=true&theme=github_dark_dimmed"/>
-
-</div>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=89CF&theme=tokyo-night&hide_border=true&area=true" width="98%" />
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/89CF/proxmox-control">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=89CF&repo=proxmox-control&theme=github_dark_dimmed&hide_border=true"/>
+  <img width="49%" src="https://opengraph.githubassets.com/1/89CF/proxmox-control" />
 </a>
 
 <a href="https://github.com/89CF/weather-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=89CF&repo=weather-app&theme=github_dark_dimmed&hide_border=true"/>
+  <img width="49%" src="https://opengraph.githubassets.com/1/89CF/weather-app" />
 </a>
 
-<br>
-
 <a href="https://github.com/89CF/Barkod-Sistemi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=89CF&repo=Barkod-Sistemi&theme=github_dark_dimmed&hide_border=true"/>
+  <img width="49%" src="https://opengraph.githubassets.com/1/89CF/Barkod-Sistemi" />
 </a>
 
 <a href="https://github.com/89CF/discord-form-bot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=89CF&repo=discord-form-bot&theme=github_dark_dimmed&hide_border=true"/>
+  <img width="49%" src="https://opengraph.githubassets.com/1/89CF/discord-form-bot" />
 </a>
 
 </div>
 
 ---
-
-# 🛠 Currently Working On
-
-- 🚀 Self-hosted Proxmox VPS Control Panel
-- ⚙️ Homelab Automation
-- 📦 Advanced WordPress Plugins
-- 🛒 WooCommerce Integrations
-- 🐳 Docker Infrastructure
-
----
-
-# 📚 Currently Learning
-
-- Kubernetes
-- Infrastructure as Code
-- Event-driven Systems
-- Distributed Applications
-
----
-
-# 🤝 Connect
 
 <div align="center">
 
@@ -132,4 +126,3 @@ const ahmet = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0B1120,50:172554,100:0EA5E9"/>
 
 </div>
-````
