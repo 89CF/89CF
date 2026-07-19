@@ -1,109 +1,130 @@
+````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ahmet%20Enes&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Homelab%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1120,50:172554,100:0EA5E9&text=Ahmet%20Enes&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Homelab%20Engineer&descAlignY=60&descSize=20"/>
 
 <a href="https://github.com/89CF">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+web+apps+that+actually+ship+%F0%9F%9A%80;WordPress+plugins+%2B+WooCommerce+wizardry+%F0%9F%9B%92;Homelab+automation+%26+Proxmox+tinkering+%E2%9A%99%EF%B8%8F;TypeScript+%7C+Vue+%7C+Node+%7C+PHP+%7C+Python" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+things+that+actually+ship+🚀;Full-Stack+Developer;WordPress+%2B+WooCommerce+Developer;Homelab+Automation+with+Proxmox;TypeScript+•+Vue+•+Node.js+•+PHP+•+Python"/>
 </a>
 
-<br/>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=89CF&label=Profile%20views&color=6f42c1&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/89CF?label=Followers&style=for-the-badge&color=6f42c1" />
+<img src="https://komarev.com/ghpvc/?username=89CF&style=for-the-badge&color=0ea5e9"/>
+<img src="https://img.shields.io/github/followers/89CF?style=for-the-badge&color=2563eb"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# 👋 About Me
 
-```typescript
+```ts
 const ahmet = {
-  role:       "Full-Stack Developer",
-  location:   "Türkiye 🇹🇷",
-  focus:      ["Web Apps", "WordPress Plugins", "Homelab Automation"],
-  currently:  "Building a self-hosted Proxmox VPS control panel",
-  learning:   ["Event-driven architectures", "Infrastructure as Code"],
-  motto:      "Ship it, iterate, repeat.",
-};
+  role: "Full-Stack Developer",
+  location: "Türkiye 🇹🇷",
+
+  focus: [
+    "Web Applications",
+    "WordPress Plugins",
+    "WooCommerce",
+    "Homelab Automation"
+  ],
+
+  currentlyBuilding: "Self-hosted Proxmox VPS Control Panel",
+
+  learning: [
+    "Event-driven Architecture",
+    "Infrastructure as Code",
+    "Kubernetes"
+  ],
+
+  motto: "Ship it. Iterate. Repeat."
+}
 ```
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,vue,nuxt,nodejs,express,php,python,tailwind,docker,linux,git,github,githubactions,mysql,vscode&perline=8"/>
 
-### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<br><br>
 
-### Backend & Runtime
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-
-### DevOps & Infra
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ubuntu,bash,cloudflare,nginx"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=89CF&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=89CF&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=89CF&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark_dimmed"/>
 
-<br/>
+<img width="49%" src="https://streak-stats.demolab.com?user=89CF&theme=github-dark-blue&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=89CF&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<br><br>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=89CF&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=89CF&theme=tokyo-night&hide_border=true&area=true" width="98%" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=89CF&layout=compact&hide_border=true&theme=github_dark_dimmed"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/89CF/proxmox-control">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=89CF&repo=proxmox-control&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/89CF/weather-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=89CF&repo=weather-app&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=89CF&repo=proxmox-control&theme=github_dark_dimmed&hide_border=true"/>
 </a>
 
-<a href="https://github.com/89CF/Barkod-Sistemi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=89CF&repo=Barkod-Sistemi&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/89CF/weather-app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=89CF&repo=weather-app&theme=github_dark_dimmed&hide_border=true"/>
 </a>
+
+<br>
+
+<a href="https://github.com/89CF/Barkod-Sistemi">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=89CF&repo=Barkod-Sistemi&theme=github_dark_dimmed&hide_border=true"/>
+</a>
+
 <a href="https://github.com/89CF/discord-form-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=89CF&repo=discord-form-bot&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=89CF&repo=discord-form-bot&theme=github_dark_dimmed&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+# 🛠 Currently Working On
+
+- 🚀 Self-hosted Proxmox VPS Control Panel
+- ⚙️ Homelab Automation
+- 📦 Advanced WordPress Plugins
+- 🛒 WooCommerce Integrations
+- 🐳 Docker Infrastructure
+
+---
+
+# 📚 Currently Learning
+
+- Kubernetes
+- Infrastructure as Code
+- Event-driven Systems
+- Distributed Applications
+
+---
+
+# 🤝 Connect
+
+<div align="center">
+
+<a href="https://github.com/89CF">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -112,12 +133,7 @@ const ahmet = {
 
 <div align="center">
 
-### 💬 Get in touch
-
-<a href="https://github.com/89CF"><img src="https://img.shields.io/badge/-Open%20an%20issue-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0B1120,50:172554,100:0EA5E9"/>
 
 </div>
+````
