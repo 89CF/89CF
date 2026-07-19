@@ -1,23 +1,5 @@
 <div align="center">
 
-# 👋 Hi, I'm Ahmet Enes
-
-### Full-Stack Developer • Homelab Engineer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+things+that+actually+ship+🚀;Full-Stack+Developer;WordPress+%2B+WooCommerce+Developer;Homelab+Automation+with+Proxmox;TypeScript+•+Vue+•+Node.js+•+PHP+•+Python"/>
-
-
-<p>
-<img src="https://skillicons.dev/icons?i=ts,vue,nodejs,php,python,docker,linux,git,mysql,tailwind" />
-</p>
-
-</div>
-
-
----
-
-<div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1120,50:172554,100:0EA5E9&text=Ahmet%20Enes&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20•%20Full-Stack%20Developer%20•%20Homelab%20Engineer&descAlignY=60&descSize=18"/>
 
 <a href="https://github.com/89CF">
