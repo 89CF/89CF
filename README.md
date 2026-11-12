@@ -18,20 +18,22 @@ Computer Engineering Student · Full-Stack Developer · Homelab Engineer
 
 ## 🛠️ Tech Stack
 
-**Languages:** TypeScript, JavaScript, PHP, Python
-**Frontend:** Vue, Nuxt, Next.js, Tailwind
-**Backend:** Node.js, Express, WordPress, WooCommerce
-**DevOps:** Docker, Proxmox, Linux, GitHub Actions
-**Databases:** MySQL, MariaDB
+- **Languages:** TypeScript, JavaScript, PHP, Python
+- **Frontend:** Vue, Nuxt, Next.js, Tailwind
+- **Backend:** Node.js, Express, WordPress, WooCommerce
+- **DevOps:** Docker, Proxmox, Linux, GitHub Actions
+- **Databases:** MySQL, MariaDB
 
 ## 🚀 Projects
 
-| Project | Description |
-|---|---|
-| [proxmox-control](https://github.com/89CF/proxmox-control) | Self-hosted Proxmox VPS control panel |
-| [weather-app](https://github.com/89CF/weather-app) | Weather application |
-| [Barkod-Sistemi](https://github.com/89CF/Barkod-Sistemi) | Barcode system |
-| [discord-form-bot](https://github.com/89CF/discord-form-bot) | Discord form bot |
+<div align="center">
+
+<a href="https://github.com/89CF/proxmox-control"><img width="49%" src="https://opengraph.githubassets.com/1/89CF/proxmox-control" /></a>
+<a href="https://github.com/89CF/weather-app"><img width="49%" src="https://opengraph.githubassets.com/1/89CF/weather-app" /></a>
+<a href="https://github.com/89CF/Barkod-Sistemi"><img width="49%" src="https://opengraph.githubassets.com/1/89CF/Barkod-Sistemi" /></a>
+<a href="https://github.com/89CF/discord-form-bot"><img width="49%" src="https://opengraph.githubassets.com/1/89CF/discord-form-bot" /></a>
+
+</div>
 
 ---
 
